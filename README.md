@@ -1,3 +1,3 @@
 # gitrepo
-![f:\docs\mt.jpg]
+![]
 Repositorio teste do Git : Just a test...
