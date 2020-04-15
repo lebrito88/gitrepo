@@ -4,5 +4,8 @@ Ready for Romance
 In the Middle of Nowhere
 Romantic Warriors
 In the Garden of Venus
+<<<<<<< HEAD
 Back for Good
 The Cooked and the Raw
+=======
+>>>>>>> parent of 0a53f30... Adicionado album de 1998
