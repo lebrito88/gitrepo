@@ -5,3 +5,4 @@ Adicionando linha para teste   de Branch - Exercicio 4
 Add nova    linha para teste 2 de Branch - Exercício 4
 
 Teste para fechar issue 1
+Teste para fechar issue 2
